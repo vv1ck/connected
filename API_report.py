@@ -1,0 +1,11 @@
+#API_report:
+" requests = get "
+url = 'https://api.c2me.cc/b/report?checksum=32017602829506897&nick= { enter your username } &o=7ffARHKQSE6PwjTRr2wVHT6YGvt8MFzr&password= { enter your password }&reason=picture&report_nick= {enter target}'
+headers = {
+    'Host': 'api.c2me.cc',
+    'Accept': '*/*',
+    'Accept-Language': 'ar-JO;q=1, en-JO;q=0.9',
+    'Connection': 'close',
+    'Accept-Encoding': 'gzip, deflate',
+    'User-Agent': 'Connected2/1.301.2112140025 (iPhone; iOS 13.5; Scale/2.00)',
+}
