@@ -12,6 +12,6 @@ api for the  { connected 2 } programmer :
 program link : <a class="" href="https://connected2.me/"> Connected2 </a>
 -
 
-By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a> | <a class="" href="http://t.me/TweakPY">telegram 2 🔷</a>
+By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
 -
 See
