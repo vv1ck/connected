@@ -10,7 +10,7 @@ api for the  { connected 2 } programmer :
 - api change username
 ---------------------
 program link : <a class="" href="https://connected2.me/"> Connected2 </a>
-- Brute Force ~> <a class="" href="https://connected2.me/"> Hacked 👑 </a>
+- Brute Force ~> <a class="" href="https://github.com/vv1ck/Brute-Force-Connected"> Hacked 👑 </a>
 -
 
 By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
